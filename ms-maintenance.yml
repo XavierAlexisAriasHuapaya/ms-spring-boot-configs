@@ -1,0 +1,4 @@
+db:
+  url: jdbc:postgresql://localhost:5000/db-ms-maintenance-2025
+  usr: usr-ms-maintenance
+  pwd: kaC0Gy2v57Pl49uEAPd0
