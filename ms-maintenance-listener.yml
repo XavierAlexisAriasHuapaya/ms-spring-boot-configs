@@ -1,0 +1,6 @@
+db:
+  authentication-db: admin
+  host: localhost
+  port: 28028
+  usr: usr-md-maintenance-listener
+  pwd: W2IF4eTyBXAJW5uuKCSl
