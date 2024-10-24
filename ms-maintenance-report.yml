@@ -1,0 +1,6 @@
+db:
+  authentication-db: admin
+  host: localhost
+  port: 27027
+  usr: usr-ms-maintenance-listener
+  pwd: W2IF4eTyBXAJW5uuKCSl
