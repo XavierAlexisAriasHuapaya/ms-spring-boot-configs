@@ -1,0 +1,4 @@
+db:
+  url: jdbc:postgresql://localhost:5000/db-ms-sale-2025
+  usr: usr-ms-sale
+  pwd: nfEz05oD03fls5opFeQe
